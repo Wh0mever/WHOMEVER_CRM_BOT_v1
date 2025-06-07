@@ -1,0 +1,7 @@
+telethon>=1.32.1
+aiogram>=2.25.1
+python-dotenv>=1.0.0
+sqlite3-utils>=3.36.0
+asyncio-throttle>=1.0.2
+aiofiles>=24.1.0
+loguru>=0.7.2 
