@@ -992,7 +992,7 @@ SOFTWARE.
 
 *Если проект оказался полезным, поставьте ⭐ на GitHub!*
 
-[![GitHub stars](https://img.shields.io/github/stars/wh0mever/telegram-crm?style=social)](https://github.com/wh0mever/telegram-crm)
-[![GitHub forks](https://img.shields.io/github/forks/wh0mever/telegram-crm?style=social)](https://github.com/wh0mever/telegram-crm)
+[![GitHub stars](https://img.shields.io/github/stars/wh0mever/WHOMEVER_CRM_BOT_v1?style=social)](https://github.com/wh0mever/WHOMEVER_CRM_BOT_v1)
+[![GitHub forks](https://img.shields.io/github/forks/wh0mever/WHOMEVER_CRM_BOT_v1?style=social)](https://github.com/wh0mever/WHOMEVER_CRM_BOT_v1)
 
 </div> 
